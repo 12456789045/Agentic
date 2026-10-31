@@ -10,3 +10,4 @@ langchain-ollama
 wikipedia
 langgraph-cli[inmem]
 faiss-cpu
+gradio
