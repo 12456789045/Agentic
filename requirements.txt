@@ -11,3 +11,5 @@ wikipedia
 langgraph-cli[inmem]
 faiss-cpu
 gradio
+wikipedia
+langchain_core
