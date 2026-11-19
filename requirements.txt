@@ -13,3 +13,5 @@ faiss-cpu
 gradio
 wikipedia
 langchain_core
+langchain-huggingface
+sentence-transformers
