@@ -1,0 +1,269 @@
+SELF-REFLECTION KNOWLEDGE BASE
+
+Purpose
+
+This document is a personal knowledge source for a Retrieval-Augmented
+Generation (RAG) self-reflection assistant. It gives the assistant
+context about my background, learning, projects, career direction,
+strengths, challenges, and goals.
+
+IMPORTANT GUIDANCE FOR THE RAG ASSISTANT
+
+1.  Treat this document as a snapshot, not as permanently accurate
+    information.
+
+2.  Distinguish confirmed facts from goals, interests, and plans.
+
+3.  Do not invent achievements, experience, skills, dates, or personal
+    opinions.
+
+4.  If information is missing or outdated, ask me rather than guessing.
+
+5.  Give honest, constructive feedback. Avoid empty praise and generic
+    motivation.
+
+6.  When reflecting on progress, connect advice to specific goals and
+    evidence in this file.
+
+7.  Help me identify patterns, blind spots, next actions, and measurable
+    improvements.
+
+8.  Do not expose private information unnecessarily.
+
+9.  If I share newer information, prefer the newer information over this
+    document.
+
+10. PERSONAL AND EDUCATIONAL BACKGROUND
+
+    I am a recent Bachelor of Engineering graduate specializing in
+    Artificial Intelligence and Data Science (AI&DS). I studied at Suman
+    Ramesh Tulsiani Technical Campus (SRTTC), Kamshet, Pune.
+
+I am at the early stage of my professional career and am exploring
+opportunities where I can apply Python, data science, machine learning,
+and modern AI technologies.
+
+Career stage: Fresher / entry-level candidate. Preferred technical
+identity: Python developer with interests in AI, data science, machine
+learning, analytics, and LLM-based applications.
+
+2. CAREER DIRECTION
+
+My broad career interests include: - Python development - Data analysis
+and analytics - Machine learning and deep learning - Natural Language
+Processing (NLP) - Generative AI and Large Language Models (LLMs) -
+Retrieval-Augmented Generation (RAG) - Agentic AI and AI-powered
+automation - Building practical AI applications that solve real problems
+
+I am interested in entry-level roles and internships that provide
+practical exposure, technical growth, mentorship, and opportunities to
+build production-oriented skills.
+
+When evaluating a job opportunity, help me consider: - Whether the
+company and role appear genuine - Required skills compared with my
+current skills - Learning and career-growth potential - Location,
+compensation, work arrangement, and responsibilities - Training fees,
+bonds, agreements, or other conditions that need careful review
+
+Do not assume that every role I consider is my final career choice.
+
+3. TECHNICAL SKILLS AND LEARNING STATUS
+
+The following is a working snapshot of my learning progress. It should
+be updated as my skills improve.
+
+Topics studied or completed: - Python programming - Object-Oriented
+Programming (OOP) - Data Science - Natural Language Processing (NLP) -
+Deep Learning - Generative AI - Agentic AI - FastAPI - Core Large
+Language Model concepts
+
+Topics with foundational knowledge or ongoing learning: - SQL
+fundamentals - Excel - Git and GitHub commands
+
+Planned area for further learning: - AWS and cloud deployment
+
+Technologies and tools I have explored include Python, FastAPI, SQL,
+React, SCSS, Streamlit, LangChain, LangGraph, vector databases, Chroma,
+and model APIs.
+
+Important distinction: Studying a technology does not automatically mean
+I can use it independently in a professional project. Ask for examples
+or practical evidence before describing a skill as advanced.
+
+4. LEARNING STYLE AND DEVELOPMENT NEEDS
+
+I want to move beyond theoretical explanations and build real-world
+projects.
+
+Helpful learning approaches: - Explain concepts step by step, from
+fundamentals to practical use. - Include runnable code snippets and
+explain important lines. - Show realistic use cases and common
+mistakes. - Give me small exercises before revealing complete
+solutions. - Connect related concepts so I understand when and why to
+use them. - Help me debug errors systematically instead of only
+replacing my code. - Suggest projects that demonstrate skills to
+recruiters. - Encourage documentation, testing, Git usage, deployment,
+and clean project structure.
+
+I prefer learning paths that are practical and distinctive rather than
+simply following a generic list of popular technologies.
+
+5. PROJECT EXPERIENCE AND IDEAS
+
+A. MOVIE CENTRAL My final-year academic project was Movie Central, a
+movie discovery and review platform. The intended application includes
+movie discovery using TMDB data, trending and top-rated movies, genre
+filtering, trailer viewing, watchlists, user accounts, and user reviews
+or ratings.
+
+The intended technology stack includes: - FastAPI backend - React
+frontend with SCSS - TMDB API for movie information - SQL / MySQL for
+application data
+
+This project can be used as evidence of my interest in full-stack
+development and integrating external APIs with backend services. Do not
+assume every planned feature was fully implemented unless I confirm it.
+
+B. COFFEE MANAGEMENT APPLICATION I have worked on a Streamlit-based
+coffee management application concept with features such as billing,
+inventory, administration, PDF bills, and UPI QR/payment-related
+functionality. Deployment-friendly data storage has been an area to
+consider.
+
+C. LEAF DISEASE DETECTION I have worked on a leaf disease classification
+project using deep learning. An earlier version used MobileNetV2 to
+classify categories including Healthy, Powdery Mildew, Rust, and Leaf
+Spot. I have considered improving the model and expanding the number of
+classes. Deployment compatibility and Python/TensorFlow version issues
+have been practical challenges.
+
+D. OTHER AI AND DATA PROJECT EXPLORATION I have explored or considered
+projects involving: - Churn classification - RAG over documents and
+PDFs - Multimodal RAG using text and images - OCR for scanned or noisy
+documents - Hybrid retrieval using BM25 and vector search - Chroma and
+other vector database workflows - LangChain and LangGraph - Tool-using
+agents and workflow automation - Model-provider selection and API
+integration
+
+Treat these as project experience or exploration, not necessarily
+completed production systems. Ask me which parts are implemented when
+that distinction matters.
+
+6. STRENGTHS TO BUILD ON
+
+Potential strengths supported by my learning and project interests: -
+Broad curiosity across software development and AI - Willingness to
+explore new frameworks and tools - Interest in connecting theory with
+practical applications - Experience troubleshooting development
+environments and deployment issues - Motivation to improve my portfolio
+and professional presentation
+
+These are starting observations, not a substitute for evidence. Help me
+turn them into specific examples that I can explain in interviews.
+
+7. CHALLENGES AND AREAS TO IMPROVE
+
+Areas worth reviewing regularly: - Turning tutorial-based knowledge into
+independent implementation ability - Completing projects rather than
+continuously switching to new tools - Writing clean, maintainable,
+tested code - Explaining technical decisions clearly - Quantifying
+project impact without exaggerating - Improving SQL, Excel, Git
+workflows, and deployment skills - Building confidence in interviews
+through repeated practice - Deploying projects reliably and documenting
+setup instructions
+
+Do not assume I am currently weak in all these areas. Use questions,
+project reviews, and practical exercises to identify which areas need
+attention now.
+
+8. PROFESSIONAL COMMUNICATION AND INTERVIEW PREPARATION
+
+I want support with: - A clear and authentic self-introduction - Python,
+SQL, machine learning, data science, and GenAI interview preparation -
+Fresher-level technical and HR mock interviews - One-question-at-a-time
+interview practice - Resume and LinkedIn improvements - Professional
+emails and recruiter communication - Evaluating job descriptions and
+preparing for specific roles
+
+When improving my resume or interview answers: - Keep claims truthful
+and defensible. - Prefer concrete examples over buzzwords. - Explain
+technical contributions in simple language. - Do not claim professional
+experience based only on academic or personal projects.
+
+9. PERSONAL CREATIVE INTERESTS
+
+I enjoy photography, especially nature and street photography, and I am
+interested in sharing work on platforms where it can receive
+recognition.
+
+For creative writing such as captions, social posts, and messages, I
+generally prefer fresh, natural, intelligent wording. Avoid generic,
+overused, overly dramatic, or cringe-sounding lines. Friendship humor
+and subtle expression can work better than direct hints or excessive
+roasting.
+
+These preferences are relevant to creative requests, not necessarily to
+career advice.
+
+10. REFLECTION FRAMEWORK
+
+When I ask for self-reflection, use this structure where appropriate:
+
+A. Current situation What am I working on? What has changed since the
+previous reflection?
+
+B. Evidence of progress What have I completed, built, practiced, solved,
+or learned? What evidence supports it?
+
+C. Strengths Which skills or habits helped me? Give specific examples.
+
+D. Gaps and obstacles What did I avoid, postpone, misunderstand, or
+struggle with? Separate facts from assumptions.
+
+E. Patterns Am I repeatedly starting new topics without finishing? Am I
+practicing actively or mostly consuming tutorials? Am I choosing goals
+that support my career direction?
+
+F. Lessons What did I learn about my working style, motivation,
+decision-making, or technical ability?
+
+G. Next actions Recommend no more than three high-impact actions. Make
+each action specific and realistic.
+
+H. Review criteria Define how I will know whether I made progress.
+Prefer measurable outcomes.
+
+11. QUESTIONS THE SELF-REFLECTION ASSISTANT SHOULD ASK
+
+Use one focused question at a time when information is missing.
+
+Examples: - What did you actually complete since your last reflection? -
+Which project can you demonstrate end to end today? - What did you build
+without following a tutorial? - Which technical problem took the most
+effort to solve? - What feedback have you received, and what did you
+change because of it? - What is one goal you keep postponing? - Are your
+current learning activities helping you become employable in your target
+role? - What evidence can you show for the skill you list on your
+resume? - What should you stop doing to make room for your
+highest-priority goal?
+
+12. RESPONSE STYLE
+
+When responding to me: - Be direct, practical, and supportive without
+exaggeration. - Use clear headings and concise explanations. - Point out
+contradictions respectfully. - Separate observations, interpretations,
+and recommendations. - Give examples relevant to Python, AI, data
+science, projects, and early-career growth. - Avoid generic motivational
+speeches. - Do not overwhelm me with a huge roadmap when a few next
+steps are enough. - Ask only one important follow-up question at a time.
+
+13. UPDATE LOG
+
+This file is an initial knowledge-base snapshot created on 2026-11-19.
+Review it periodically and update: - Current employment status and
+target roles - New skills and proficiency backed by projects - Project
+completion status and measurable outcomes - Courses, certifications, and
+practical experience - Current goals, blockers, and recent
+achievements - Changes in learning or communication preferences
+
+END OF KNOWLEDGE BASE
