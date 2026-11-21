@@ -21,6 +21,7 @@ dependencies = [
     "langchain-huggingface>=1.2.3",
     "langchain-ollama>=1.1.0",
     "langchain-openai>=1.7.2",
+    "langchain-tavily>=0.2.18",
     "langgraph-cli[inmem]>=0.4.40",
     "pymupdf>=2.1",
     "python-dotenv>=1.2.4",
