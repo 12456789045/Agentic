@@ -16,3 +16,4 @@ langchain_core
 langchain-huggingface
 sentence-transformers
 langchain-tavily
+langchain-supervisor

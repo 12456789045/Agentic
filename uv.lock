@@ -33,6 +33,7 @@ dependencies = [
     { name = "langchain-openai" },
     { name = "langchain-tavily" },
     { name = "langgraph-cli", extra = ["inmem"] },
+    { name = "langgraph-supervisor" },
     { name = "pymupdf" },
     { name = "python-dotenv" },
     { name = "sentence-transformers" },
@@ -56,6 +57,7 @@ requires-dist = [
     { name = "langchain-openai", specifier = ">=1.7.2" },
     { name = "langchain-tavily", specifier = ">=0.2.18" },
     { name = "langgraph-cli", extras = ["inmem"], specifier = ">=0.4.40" },
+    { name = "langgraph-supervisor", specifier = ">=0.0.31" },
     { name = "pymupdf", specifier = ">=2.1" },
     { name = "python-dotenv", specifier = ">=1.2.4" },
     { name = "sentence-transformers", specifier = ">=6.3.0" },
@@ -2393,6 +2395,19 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/5e/2a/bb6b4ca7a735901542c885e59ce3d1a128e2914b072b0c9a9feaf927195a/langgraph_sdk-0.4.8.tar.gz", hash = "sha256:6dd0c55d0d9040686716581c9e302c21c31ad6e2eebda0defc944a8bb38ec011", size = 355741, upload-time = "2026-10-16T22:08:51.14Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/26/b7/414170649c4437289858af6a9fec7a29f99e7b3919cebf32bbc4cb0be7a0/langgraph_sdk-0.4.8-py3-none-any.whl", hash = "sha256:bef8ac54bdfe3ac2f7eba5be2f322dde296701b39e1c1aa403302f08d273fab5", size = 164560, upload-time = "2026-10-16T22:08:49.836Z" },
+]
+
+[[package]]
+name = "langgraph-supervisor"
+version = "0.0.31"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "langchain-core" },
+    { name = "langgraph" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/15/a0/6e9286a2e4a9ed8c9d299d0131b323cae376316a63286d2880031bb01082/langgraph_supervisor-0.0.31.tar.gz", hash = "sha256:0f71d5098fa1ac274423eff08750345450045c1e0dd2480ab7f3e5c1848f6016", size = 21910, upload-time = "2025-11-19T18:34:29.795Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/1d/7f/bb73da8db36c96f32cdd0292f2cd75e2d671150b0d177575da560ad994a1/langgraph_supervisor-0.0.31-py3-none-any.whl", hash = "sha256:6bbe5311f536d38779766cc6f074005e3e892d37edbfd875731923221daa1889", size = 16505, upload-time = "2025-11-19T18:34:28.481Z" },
 ]
 
 [[package]]
